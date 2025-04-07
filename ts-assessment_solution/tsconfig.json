@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/node20",
+  "compilerOptions": {
+    "outDir": "build",
+    "baseUrl": "./src",
+    "paths": {
+      "functions": ["functions/index.ts"],
+      "types/*": ["types/*"]
+    }
+  },
+  "include": ["src", "test"]
+}
