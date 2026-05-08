@@ -1,4 +1,15 @@
-This content of the repository is based on the assignment given to me by a Low Code development company called Mendix.
-The interview is very one sided since the people assessing you are not qualified to assess in general.
+The coding solution from an assement by Mendix, Rotterdam for a C# developer position.
+Interview Experience:
 
-My take is to not fall victim of this biased mindset and treat everyone equally.
+  Initial Discussion with the hiring manager
+
+  
+  Coding assessment in Typescript (not sure why it was given for C# role)
+  
+  Discussion with the team (**Please take the general reviews on glassdoor by other candidates seriously, I made the mistake of thinking team will not behave arrogant with me or in my interview, but I was wrong**).
+
+  Assement result by the recruiter.
+
+  Overall experience:
+
+  One of the few companies, I will be careful in selecting as an employer (Based on confusing recruitment process)
